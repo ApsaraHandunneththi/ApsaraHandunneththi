@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Apsara Handunneththi
-![Welcome Banner](https://files.oaiusercontent.com/file-AQyBvLA8JFKnDTdWjVxr5V?se=2024-12-22T08%3A59%3A23Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D45af870b-00ea-4275-bc72-928017a16993.webp&sig=/LNHDRTzoPyqt4kwI1A8rskvz9triRaJOho3bpeWTFQ%3D)
 
 
 
@@ -13,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 - 🎯 **Goals for 2024:** Enhance my skills and contribute to open-source projects.
 
 ## 🛠️ Skills & Tools
-- **Programming Languages:** Java, Python, C, SQL
+- **Programming Languages:** Java, Python, C, react,html,kotlin
 - **Frameworks & Libraries:** Spring Boot, Hibernate, React
 - **Database Technologies:** MySQL, MongoDB
 - **Tools & Platforms:** Git, Docker, XAMPP, Visual Studio Code
@@ -24,6 +23,7 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 2. **[AI-Based Expert System for HR Talent Acquisition](#):** An AI-powered solution to streamline hiring processes.
 3. **[Remotely Controllable Capacitor-Type Ceiling Fan Regulator](#):** Development of an innovative fan regulator for energy efficiency.
 4. **[Beauty Cosmetic and Personal Care Website](#):** A stylish website featuring modern web design and functionalities.
+5. **[water remainder app]:** made a water remainder app
 
 ## 📫 How to Reach Me
 - Email: [aajhandunneththi@gmail.com]
