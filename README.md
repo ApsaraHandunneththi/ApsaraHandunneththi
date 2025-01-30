@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about technology, learning, and bui
 2. **[AI-Based Expert System for HR Talent Acquisition](#):** An AI-powered solution to streamline hiring processes.
 3. **[Remotely Controllable Capacitor-Type Ceiling Fan Regulator](#):** Development of an innovative fan regulator for energy efficiency.
 4. **[Beauty Cosmetic and Personal Care Website](#):** A stylish website featuring modern web design and functionalities.
-5. **[water remainder app]:** made a water remainder app
+5. **[water remainder app](#):** made a water remainder app.
 
 ## 📫 How to Reach Me
 - Email: [aajhandunneththi@gmail.com]
